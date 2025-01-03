@@ -36,6 +36,10 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# artifacts
+artifacts/
+jupyter_notebooks/logs
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
@@ -135,6 +139,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+VP_BA_env/
 
 # Spyder project settings
 .spyderproject
